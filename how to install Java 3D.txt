@@ -1,0 +1,4 @@
+In case of you can not run jave 3d
+
+1.Add j3dcore.jar, j3dutils.jar, and vecmath.jar to your project build path
+2 Add the path of j3dcore-ogl.dll to Native library location for three jar file
